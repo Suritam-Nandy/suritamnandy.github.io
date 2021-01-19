@@ -95,7 +95,7 @@ export default class Header extends Component {
               <div style={{position: "absolute", top: '25%', left:'0rem'}}>
                 <h1
                   // className="responsive-headline"
-                >I am {resumeData.name}.</h1>
+                >{resumeData.name}</h1>
                 <h3 style={{ color: '#fff', fontFamily: 'sans-serif',  }}>I am a {resumeData.role}.{resumeData.roleDescription}
                 </h3>
                 <div style={{position:"relative"}}>

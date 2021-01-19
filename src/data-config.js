@@ -1,6 +1,5 @@
 let resumeData = {
-  // "imagebaseurl":
-  //   "https://rbhatia46.github.io/",
+  
     "name": "Suritam Nandy",
     "role": "Frontend Developer and a keen ML enthusiast",
     "linkedinId":"Your LinkedIn Id",
@@ -65,7 +64,7 @@ let resumeData = {
         "Achievements":"Drafted some Iconic Events :x"
       }
     ],
-    "skillsDescription":"Your skills here",
+    "skillsDescription":"",
     "skills":[
       {
         "skillname":"HTML5"
@@ -95,7 +94,10 @@ let resumeData = {
       {
         "name":"CEFORO Vision",
         "description":"Voice Assistant",
-        "imgurl":"images/portfolio/coffee.jpg"
+        "imgurl": "images/portfolio/coffee.jpg",
+        "repolink": "",
+        "link":"https://ceforo.tech/",
+        
       },
       {
         "name":"project3",
@@ -110,12 +112,12 @@ let resumeData = {
     ],
     "testimonials":[
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"Life is like riding a bicycle. To keep your balance, you must keep moving.",
+        "name":"Albert Einstein"
       },
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"Live as if you were to die tomorrow. Learn as if you were to live forever.",
+        "name":"Mahatma Gandhi"
       }
       
     ]
