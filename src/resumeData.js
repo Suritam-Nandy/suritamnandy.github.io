@@ -2,10 +2,10 @@ let resumeData = {
   // "imagebaseurl":
   //   "https://rbhatia46.github.io/",
     "name": "Suritam Nandy",
-    // "role": "Frontend Developer and a keen ML enthusiast",
+    "role": "Frontend Developer and a keen ML enthusiast",
     "linkedinId":"Your LinkedIn Id",
     "skypeid": "Your skypeid",
-    // "roleDescription": " I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free hour.",
+    "roleDescription": " I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free hour.",
     "socialLinks":[
         {
           "name":"linkedin",
