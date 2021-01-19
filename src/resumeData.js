@@ -1,24 +1,24 @@
 let resumeData = {
     "imagebaseurl":"https://rbhatia46.github.io/",
     "name": "Suritam Nandy",
-    "role": "Frontend Developer and Data Scientist",
+    "role": "Frontend Developer and a keen ML enthusiast",
     "linkedinId":"Your LinkedIn Id",
     "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "roleDescription": " I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free hour.",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+          "url":"https://www.linkedin.com/in/suritam-nandy-74952718b/",
           "className":"fa fa-linkedin"
         },
         {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"https://github.com/Suritam-Nandy",
           "className":"fa fa-github"
         },
         {
-          "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
+          "name":"twitter",
+          "url":"https://twitter.com/NandySuritam",
           "className":"fa fa-twitter"
         }
       ],
@@ -100,6 +100,7 @@ let resumeData = {
         "description":"This is a sample testimonial",
         "name":"Some technical guy"
       }
+      
     ]
   }
   
