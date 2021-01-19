@@ -355,7 +355,26 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: jquery 2s ease;
   	-webkit-animation: jquery 2s ease;
 }
+.reactjs {
+   width: 30%;
+   -moz-animation: reactjs 2s ease;
+   -webkit-animation: reactjs 2s ease;
+}
+.python {
+   width: 30%;
+   -moz-animation: python 2s ease;
+   -webkit-animation: python 2s ease;
+}
+.opencv {
+   width: 70%;
+   -moz-animation: opencv 2s ease;
+   -webkit-animation: opencv 2s ease;
+}
 
+@-moz-keyframes opencv {
+   0%   { width: 0px;  }
+   100% { width: 70%;  }
+ }
 @-moz-keyframes photoshop {
   0%   { width: 0px;  }
   100% { width: 60%;  }
@@ -405,6 +424,10 @@ ul#nav li.current a { color: #F06000; }
   0%   { width: 0px;  }
   100% { width: 50%;  }
 }
+@-webkit-keyframes reactjs {
+   0%   { width: 0px;  }
+   100% { width: 30%;  }
+ }
 
 /* ------------------------------------------------------------------ */
 /* e. Portfolio Section

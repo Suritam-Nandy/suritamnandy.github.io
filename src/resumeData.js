@@ -1,10 +1,11 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
+  // "imagebaseurl":
+  //   "https://rbhatia46.github.io/",
     "name": "Suritam Nandy",
-    "role": "Frontend Developer and a keen ML enthusiast",
+    // "role": "Frontend Developer and a keen ML enthusiast",
     "linkedinId":"Your LinkedIn Id",
     "skypeid": "Your skypeid",
-    "roleDescription": " I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free hour.",
+    // "roleDescription": " I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free hour.",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -22,39 +23,46 @@ let resumeData = {
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
+    "aboutme":"I am currently a 2nd year student at SRM Institute of Science and Technology and pursuing my B.Tech Computer Science and Engineering. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
     "address":"India",
-    "website":"https://rbhatia46.github.io",
+    "website":"https://github.com/Suritam-Nandy",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
-        "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
+        "UniversityName":"SRM Institute of Science and Technology",
+        "specialization":"B.Tech (Computer Science and Engineering)",
+        "MonthOfPassing":"",
+        "YearOfPassing":"2023",
+        "Achievements":""
       },
       {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
+        "UniversityName":"DAV Model School, Durgapur",
+        "specialization":"CBSE",
+        "MonthOfPassing":"",
+        "YearOfPassing":"2019",
+        "Achievements":"Percentage: 87.8%"
+      },
+      {
+        "UniversityName":"St. Xavier's School, Durgapur",
+        "specialization":"ICSE",
+        "MonthOfPassing":"",
+        "YearOfPassing":"2017",
+        "Achievements":"Percentage: 88.3%"
       }
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"SRMKZILLA || Mozilla Campus Club || SRM-IST",
+        "specialization":"TECHNICAL MEMBER",
+        "MonthOfLeaving":"",
+        "YearOfLeaving":"PRESENT",
+        "Achievements":"Building in House Projects :>"
       },
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"SRMKZILLA || Mozilla Campus Club || SRM-IST",
+        "specialization":"EVENTS MEMBER",
+        "MonthOfLeaving":"June",
+        "YearOfLeaving":"2020",
+        "Achievements":"Drafted some Iconic Events :x"
       }
     ],
     "skillsDescription":"Your skills here",
@@ -66,29 +74,38 @@ let resumeData = {
         "skillname":"CSS"
       },
       {
-        "skillname":"Reactjs"
+        "skillname":"ReactJs"
+      },
+      {
+        "skillname":"Illustrator"
+      },
+      {
+        "skillname":"Python"
+      },
+      {
+        "skillname":"openCV"
       }
     ],
     "portfolio":[
       {
-        "name":"project1",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"EatFit",
+        "description":"web-app",
+        "imgurl":"images/portfolio/coffee.jpg"
       },
       {
-        "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
+        "name":"CEFORO Vision",
+        "description":"Voice Assistant",
+        "imgurl":"images/portfolio/coffee.jpg"
       },
       {
         "name":"project3",
         "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
+        "imgurl":"images/portfolio/coffee.jpg"
       },
       {
         "name":"project4",
         "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "imgurl":"images/portfolio/coffee.jpg"
       }
     ],
     "testimonials":[
