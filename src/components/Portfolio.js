@@ -1,3 +1,5 @@
+/* eslint-disable jsx-a11y/alt-text */
+/* eslint-disable react/jsx-no-target-blank */
 import React, { Component } from 'react';
 export default class Porfolio extends Component {
   render() {
@@ -12,7 +14,7 @@ export default class Porfolio extends Component {
             resumeData.portfolio && resumeData.portfolio.map((item)=>{
               return(
                 <div className="columns portfolio-item">
-                  {/* <a href={`${item.link}`} target="_blank">  */}
+                  <a href={`${item.link}`} target="_blank"> 
                    <div className="item-wrap">
                    
                       <img src={`${item.imgurl}`} className="item-img"/>
@@ -26,7 +28,7 @@ export default class Porfolio extends Component {
                         </div>
                       </div>
                     </div>
-                    {/* </a> */}
+                    </a>
                 </div>
               )
             })
