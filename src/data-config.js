@@ -1,10 +1,10 @@
 let resumeData = {
   name: "Suritam Nandy",
-  role: "Frontend Developer and a keen ML enthusiast",
+  role: "Full Stack Developer and a keen Blockchain enthusiast",
   linkedinId: "Suritam-Nandy",
-  skypeid: "Your skypeid",
+  skypeid: "live:13suritsuritam",
   roleDescription:
-    " I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free hour.",
+    " I like dabbling in various parts of web development and like to learn about new technologies, explore new Web3 projects, or simply play games in my free hour.",
   socialLinks: [
     {
       name: "linkedin",
@@ -23,7 +23,7 @@ let resumeData = {
     },
   ],
   aboutme:
-    "I am currently a 2nd year student at SRM Institute of Science and Technology and pursuing my B.Tech Computer Science and Engineering. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
+    "I am currently a 3rd year student at SRM Institute of Science and Technology and pursuing my B.Tech Computer Science and Engineering. I am a self taught Full Stack Web Developer, currently diving deeper into Blockchain Technology. I believe that to be successful in life, one needs to be passionate about their dreams and keep working towards them.",
   address: "India",
   website: "https://github.com/Suritam-Nandy",
   education: [
@@ -88,26 +88,37 @@ let resumeData = {
   ],
   portfolio: [
     {
-      name: "EatFit",
-      description: "web-app",
-      imgurl: "images/portfolio/coffee.jpg",
+      name: "Master Contractor",
+      app: "web-app",
+      description:
+        " Website for a Contractor Company, built using React JS and Tailwind CSS technologies.",
+      imgurl: "images/portfolio/Master-Contractor.jpg",
+      link: "https://suritam-mastercontractor.vercel.app/",
     },
     {
-      name: "CEFORO Vision",
-      description: "Voice Assistant",
-      imgurl: "images/portfolio/coffee.jpg",
+      name: "LiteStore",
+      app: "web-app",
+      description:
+        " Website for a Company which is also their product where People can list their properties and Brands can hire the same, built using React JS, Redux, Firestore, Firebase and Tailwind CSS technologies.",
+      imgurl: "images/portfolio/Litestore.jpg",
+      link: "https://litestore.in/",
+    },
+    {
+      name: "FitEat",
+      app: "web-app",
+      description:
+        " A Fitness App using HTML5, CSS3, Javascript, Express, MongoDB technologies to keep track of daily calorie intake and provide ideal calorie consumption.",
+      imgurl: "images/portfolio/FitEat.png",
+      link: "https://fiteat-app.herokuapp.com/",
+    },
+    {
+      name: "CEFORO",
+      app: "web-app",
+      description:
+        "Website of a technical team using HTML5, CSS3, Javascript technologies.",
+      imgurl: "images/portfolio/ceforo.png",
       repolink: "",
       link: "https://ceforo.tech/",
-    },
-    {
-      name: "project3",
-      description: "mobileapp",
-      imgurl: "images/portfolio/coffee.jpg",
-    },
-    {
-      name: "project4",
-      description: "mobileapp",
-      imgurl: "images/portfolio/coffee.jpg",
     },
   ],
   testimonials: [
